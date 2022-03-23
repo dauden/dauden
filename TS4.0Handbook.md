@@ -1,4 +1,25 @@
-Typescript 4.0 Handbook
+# Typescript 4.0 Handbook
+- TypeScript is JavaScript with syntax for types.
+- TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+
+**and From their official website:**
+
+- TypeScript is a superset of JavaScript that compiles to plain JavaScript.
+
+Pros & Cons
+These are the first few things comes to my mind when I think about TS.
+
+### Pros:
+- Type checking
+- OOP
+- Best of both worlds (front end and back end)
+- Can be use with most of the latest JS frameworks/libraries.
+- Amazingly superb with growing source code.
+- ES6 features? Indeed TS supports all those new features.
+### Cons:
+A bit of hassle in integration (tho latest tools offer TS integration out of the box).
+Can increase development time if not being used with proper type structuring approach.
+
 
 # Basic Types
 - Boolean
