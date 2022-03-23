@@ -1,6 +1,6 @@
 Typescript 4.0 Handbook
 
-#Basic Types
+# Basic Types
 - Boolean
 - Number
 - String
@@ -107,7 +107,7 @@ var x = 20; // Okie la!
 
 You can read in the Handbook Reference on [Variable Declarations](https://www.typescriptlang.org/docs/handbook/variable-declarations.html)
 
-#Uncalled function checks in conditional expressions
+# Uncalled function checks in conditional expressions
 
 in Typescript 3.7 introduced uncalled function checks to report an error when you are forgotten to call a function
 
@@ -275,7 +275,7 @@ let something = new Selection(); // Error, constructor of Singleton is private
 let instance = Singleton.getInstance(); // do something with the instance
 ```
 
-#Currying
+# Currying
 
 Just use a chain of fat arrow functions
 
