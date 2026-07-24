@@ -11,7 +11,7 @@
 blackbean@github
 ──────────────────────────────────────────────────────────────────────────────
 
-Role............... Principal Software Engineer
+Role............... Technical Individual Contributor & Solution Designer
 Company............ Pillar Lab AI (rebranded, formerly Ringkas)
 Experience......... 15+ Years
 Location........... Ho Chi Minh City, Vietnam
